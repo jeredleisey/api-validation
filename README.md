@@ -1,2 +1,2 @@
 # api-validation
- Example of using Behat to validate github API
+ Example of using Behat/Gherkin to validate github API
